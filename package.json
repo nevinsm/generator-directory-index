@@ -1,0 +1,21 @@
+{
+  "name": "generator-directory-index",
+  "version": "1.0.0",
+  "description": "A dead simple generator to build an index.html file with links to all the files under a directory tree",
+  "bugs": {
+    "url": "https://github.com/nevinsm/generator-directory-index/issues",
+    "email": "nevins.morgan@gmail.com"
+  },
+  "author": "Nevin Morgan <nevins.morgan@gmail.com> (https://nevinmorgan.com)",
+  "license": "MIT",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0",
+    "recursive-readdir": "^2.2.2"
+  }
+}
