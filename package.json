@@ -1,7 +1,8 @@
 {
   "name": "generator-directory-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dead simple generator to build an index.html file with links to all the files under a directory tree",
+  "homepage": "https://github.com/nevinsm/generator-directory-index",
   "bugs": {
     "url": "https://github.com/nevinsm/generator-directory-index/issues",
     "email": "nevins.morgan@gmail.com"
